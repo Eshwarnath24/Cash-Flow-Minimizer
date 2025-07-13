@@ -1,4 +1,4 @@
-# Cash-Flow-Minimizer
+# Cash Flow Minimizer
 
 ## Features
 Transaction Management – Add, view, and filter transactions efficiently.
